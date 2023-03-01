@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://D:/software/apache-maven-3.6.1/mvn_repository/org/springframework/boot/spring-boot-starter-parent/2.7.6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FeignApi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserService/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
