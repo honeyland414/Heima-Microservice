@@ -21,7 +21,7 @@ import javax.sql.DataSource;
 @EnableJpaRepositories(basePackages = "com.example.orderservice.repository")
 @EnableTransactionManagement
 public class SpringDataJPAConfig {
-    @Value("jdbc:mysql://localhost:3306/cloud_order")
+    @Value("jdbc:mysql://localhost:3306/cloud_demo")
     private String url;
 
     @Value("com.mysql.cj.jdbc.Driver")

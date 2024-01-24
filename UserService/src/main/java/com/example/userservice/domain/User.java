@@ -9,13 +9,17 @@ import javax.persistence.Table;
 
 @Data
 @Entity
-@Table(name = "tb_user")
+@Table(name = "user")
 public class User {
     @Id
     @Column(name = "id")
     private Integer id;
-    @Column(name = "username")
-    private String username;
-    @Column(name = "address")
-    private String address;
+    @Column(name = "name")
+    private String name;
+    @Column(name = "age")
+    private Integer age;
+    @Column(name = "gender")
+    private Integer gender;
+    @Column(name = "phone")
+    private String phone;
 }
