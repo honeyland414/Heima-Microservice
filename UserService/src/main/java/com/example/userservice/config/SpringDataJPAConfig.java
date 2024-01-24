@@ -19,7 +19,7 @@ import javax.sql.DataSource;
 @EnableJpaRepositories(basePackages = "com.example.userservice.repository")
 @EnableTransactionManagement
 public class SpringDataJPAConfig {
-    @Value("jdbc:mysql://localhost:3306/cloud_user")
+    @Value("jdbc:mysql://192.168.88.128:13306/cloud_demo")
     private String url;
 
     @Value("com.mysql.cj.jdbc.Driver")
